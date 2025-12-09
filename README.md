@@ -4,7 +4,7 @@
 
 **HubClient** is a highly customizable, feature-rich utility mod designed for Minecraft 1.8.9 (Forge). It focuses on Quality of Life (QOL), Rendering enhancements, and "Legit" combat utilities. It features a fully custom-coded ClickGUI, a high-definition font rendering engine, and extensive customization options including Chroma support.
 
-Was Supposed to be a PvP/ Hypixel Skyblock "QOL" Cheat but if i decide to update later down the line currently there are no SkyBlock features hence why lots of mentions of "Skyblock QOL" or "Features are mentioned in Packages and Code.
+Was Supposed to be a PvP/ Hypixel Skyblock "QOL" Cheat, i may decide to update later down the line but currently there are no SkyBlock features hence why lots of mentions of "Skyblock QOL" or "Features are mentioned in Packages and Code.
 
 ## 🌟 Key Features
 
