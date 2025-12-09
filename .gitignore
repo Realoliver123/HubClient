@@ -1,0 +1,23 @@
+# Gradle files
+.gradle/
+build/
+
+# IDEA files (IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse files
+.settings/
+bin/
+.classpath
+.project
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Run directory (Game logs/saves)
+run/
