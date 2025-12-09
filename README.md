@@ -21,6 +21,9 @@ Was Supposed to be a PvP/ Hypixel Skyblock "QOL" Cheat but if i decide to update
 * **Visual Spin:** Client-side "Spinbot" animation (Third-person only). Does not affect server-side rotation.
 * **FullBright:** Standard gamma toggle.
 
+<img width="1917" height="1007" alt="Screenshot 2025-12-09 015328" src="https://github.com/user-attachments/assets/fa2f3824-3c73-4252-b281-a0f692d6505c" />
+<img width="1919" height="1013" alt="Screenshot 2025-12-09 015355" src="https://github.com/user-attachments/assets/e8c3cbd5-4974-4370-ab8a-67f675636626" />
+
 ### ⚔️ Combat
 * **Legit AimAssist:**
     * Smooth tracking based on sensitivity.
@@ -28,6 +31,8 @@ Was Supposed to be a PvP/ Hypixel Skyblock "QOL" Cheat but if i decide to update
     * **Smart Filtering:** Options for "Click Only" and "Weapon Only".
     * **Vertical Aiming:** Optional pitch assistance.
 * **AutoClicker:** Configurable CPS (Clicks Per Second).
+
+<img width="1919" height="1044" alt="Screenshot 2025-12-09 015215" src="https://github.com/user-attachments/assets/bed9f588-730e-4373-95df-51d893d795c0" />
 
 ### 🎨 Customization & GUI
 * **Custom Font Engine:** * Integrated high-definition font renderer.
@@ -38,6 +43,8 @@ Was Supposed to be a PvP/ Hypixel Skyblock "QOL" Cheat but if i decide to update
 * **Watermark:** * Customizable text input directly in the GUI.
     * "Side Glitch" effect (`§k`) for a hacker-style aesthetic.
     * Displays FPS and Coordinates.
+
+<img width="1139" height="662" alt="Screenshot 2025-12-09 015242" src="https://github.com/user-attachments/assets/17feff78-2a4a-4e05-88ef-aae26bbe9314" />
 
 ### 🛠️ Utilities
 * **AutoMiner:** Automatically holds the attack key for AFK mining tasks.
